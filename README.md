@@ -68,7 +68,8 @@
 
 🔗 **Live:**&nbsp;
 <a href="https://portfolio-virid-five-19.vercel.app">Portfolio</a> ·
-<a href="https://gravity-smash.vercel.app">Gravity Smash (play)</a>
+<a href="https://gravity-smash.vercel.app">Gravity Smash (play)</a> ·
+<a href="https://braintone-zeta.vercel.app">BrainTone — adaptive brain workouts</a>
 
 </div>
 
