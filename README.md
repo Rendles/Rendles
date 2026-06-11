@@ -56,6 +56,24 @@
 <a href="https://github.com/Rendles/portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rendles&repo=portfolio&bg_color=0d1117&title_color=c6ff3a&icon_color=c6ff3a&text_color=c9d1d9&border_color=30363d" alt="portfolio repo" />
 </a>
+<a href="https://github.com/Rendles/gravity-smash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rendles&repo=gravity-smash&bg_color=0d1117&title_color=c6ff3a&icon_color=c6ff3a&text_color=c9d1d9&border_color=30363d" alt="gravity-smash repo" />
+</a>
+
+<a href="https://github.com/Rendles/int3grate-front-mockup">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rendles&repo=int3grate-front-mockup&bg_color=0d1117&title_color=c6ff3a&icon_color=c6ff3a&text_color=c9d1d9&border_color=30363d" alt="int3grate-front-mockup repo" />
+</a>
+<a href="https://github.com/Rendles/proactive-assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rendles&repo=proactive-assistant&bg_color=0d1117&title_color=c6ff3a&icon_color=c6ff3a&text_color=c9d1d9&border_color=30363d" alt="proactive-assistant repo" />
+</a>
+
+<br/><br/>
+
+🔗 **Live:**&nbsp;
+<a href="https://portfolio-virid-five-19.vercel.app">Portfolio</a> ·
+<a href="https://gravity-smash.vercel.app">Gravity Smash (play)</a> ·
+<a href="https://int3grate-fornt-mockup.vercel.app">AI control plane mockup</a> ·
+<a href="https://int3grate-landing.vercel.app">int3grate landing</a>
 
 </div>
 
