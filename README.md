@@ -63,6 +63,9 @@
 <a href="https://github.com/Rendles/proactive-assistant">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rendles&repo=proactive-assistant&bg_color=0d1117&title_color=c6ff3a&icon_color=c6ff3a&text_color=c9d1d9&border_color=30363d" alt="proactive-assistant repo" />
 </a>
+<a href="https://github.com/Rendles/brain_tone">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rendles&repo=brain_tone&bg_color=0d1117&title_color=c6ff3a&icon_color=c6ff3a&text_color=c9d1d9&border_color=30363d" alt="brain_tone repo" />
+</a>
 
 <br/><br/>
 
